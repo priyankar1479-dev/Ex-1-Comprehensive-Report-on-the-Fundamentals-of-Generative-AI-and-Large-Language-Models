@@ -63,7 +63,7 @@ Step 6: Review and Edit 6.1 Proofread for grammar, spelling, and clarity 6.2 Ens
 Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as PDF or desired format 7.3 Prepare a brief presentation if required (optional)
 
 
-Output:https://github.com/priyankar1479-dev/Ex-1-Comprehensive-Report-on-the-Fundamentals-of-Generative-AI-and-Large-Language-Models/edit/main/README.md
+Output:https://drive.google.com/file/d/1gg6wMbk2Y8qMXNAqCEUI7OqCZ5qDpVFC/view?usp=drive_link
 
 
 Result:
